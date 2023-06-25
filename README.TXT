@@ -2,7 +2,7 @@
 BUILD OUTPUT DESCRIPTION
 ========================
 How to Download Oh Hi
-1. Downlaod the dist.zip and extract it
+1. Downlaod the ohhi.zip and extract it
 2. Make sure you have JDK 18
 3. Make sure the stuff folder is in the same location as Ohhi.jar
 4. Double click it and have fun!
